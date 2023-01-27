@@ -1,0 +1,110 @@
+.hero{
+    
+    top: 72px;
+    left: 166px;
+    width: 576px;
+    height: 576px;
+    background: transparent url('img/Ellipse 2.png') 0% 0% no-repeat padding-box;
+    box-shadow: 0px 4px 31px #0000000A;
+    border: 20px solid #FFFFFF;
+    opacity: 1;
+    border-radius: 50%;
+}
+.icon{
+    margin-top: 100px;
+margin-left: 100px;
+top: 106px;
+left: 906px;
+width: 272px;
+height: 58px;
+opacity: 1;
+}
+.expert{
+    margin-left: 100px;  
+top: 183px;
+left: 905px;
+width: 500px;
+height: 100px;
+text-align: left;
+font: normal normal 300 40px/47px Roboto;
+letter-spacing: 0px;
+color: #3E3E3E;
+opacity: 1;
+}
+
+.plainlog{
+    margin-left: 100px;
+    top: 315px;
+    left: 904px;
+    width: 260px;
+    height: 33px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal normal 25px/33px Roboto;
+    letter-spacing: 0px;
+    color: #3E3E3E;
+    opacity: 1;
+}
+
+.username{
+    margin-left: 100px;
+    padding-top: 30px;
+}
+
+.password{
+    margin-left: 100px;
+    padding-top: 10px;
+}
+.btn{
+    margin-left: 100px;
+  
+    top: 527px;
+left: 906px;
+width: 138px;
+height: 45px;
+/* UI Properties */
+color: white;
+background: #C8242F 0% 0% no-repeat padding-box;
+margin-right: 20px;
+margin-left: 31px;
+border-radius: 23px;
+opacity: 1;
+    
+}
+
+.loginforgot{
+    margin-left: 100px;
+    display: flex;
+    position:absolute
+}
+.forgotpass{
+    font-size: small;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+.new{
+    margin-top: 60px;
+    position: absolute;
+    padding: 0%;
+    margin-left: 0%;
+}
+
+.register{
+    margin-left: 20px;
+    margin-top: 14px;
+    text-align: left;
+font: normal normal normal 15px/20px Roboto;
+letter-spacing: 0px;
+color:red ;
+opacity: 1;
+}
+
+.dashboard{
+    margin-top: 10px;
+    top: 105px;
+    left: 30px;
+    width: 183px;
+    height: 43px;
+    background: #FFF3F4 0% 0% no-repeat padding-box;
+}
